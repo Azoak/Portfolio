@@ -1,0 +1,36 @@
+
+
+
+body {
+    background-color: rgb(44, 194, 39);
+    float: middle;
+}
+
+.name {
+color: rgb(255, 255, 255);
+background-color:black;
+padding-left: 8%;
+padding-right: 58%;
+margin: auto; 
+padding:3px black;
+float: left
+}
+
+.contact {
+    margin:auto;
+    background-color:black;
+    color:white;
+float: right;
+padding-right: 5%;
+
+}
+
+.theBoi {
+float: left;
+
+}
+
+.cInfo {
+    float: right;
+    padding-right: 10%;
+}
